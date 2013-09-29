@@ -1,6 +1,9 @@
 404
 ===
 
+##demo地址：[多贝404](http://www.xuanfengge.com/funny/css3/404/)
+
+
 404页面
 
 - 撤销左侧CSS3的多贝logo，改成页面出错的文字介绍
